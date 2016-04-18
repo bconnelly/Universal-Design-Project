@@ -1,6 +1,8 @@
-Live version of the site:
+Live version of the site:  
+  
 '''
-http://webdevgroupcu.org/brco0199/startbootstrap-1.0.4/index.html#
+http://webdevgroupcu.org/brco0199/project/index.html  
+http://webdevgroupcu.org/brco0199/project/what_do_we_do.html  
 '''
-
-Will be updated irregularly and infrequently
+  
+Will be updated occasionally
