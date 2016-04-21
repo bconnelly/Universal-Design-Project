@@ -48,7 +48,7 @@ body {
 }
 
 .headline {
-    padding: 280px 0 280px 0;
+    padding: 240px 0 240px 0;
 }
 
 .headline h1 {
@@ -125,6 +125,21 @@ footer {
     font-size: 20px;
 }
 
+@media(max-width:1400px) {
+    .headline {
+        padding: 180px 0 180px 0;
+    }
+    .headline h1 {
+        font-size: 70px
+    }
+    .featurette-divider {
+        margin: 50px
+    }
+    .featurette-heading {
+        font-size: 35px
+    }
+}
+
 @media(max-width:1200px) {
     .headline h1 {
         font-size: 60px;
@@ -140,10 +155,12 @@ footer {
     }
 }
 
-
-@media(max-width:960px) {
+@media(max-width:991px) {
+    .headline {
+        padding: 170px 0 170px 0;
+    }
     .headline h1 {
-        font-size: 40px;
+        font-size: 50px;
     }
 
     .headline h2 {
@@ -161,8 +178,13 @@ footer {
         font-size: 25px;
     }
 }
-/*
+
 @media(max-width:668px) {
+    .headline {
+        padding: 140px 0 140px 0;
+    }
+    
+/*
     .headline h1 {
         font-size: 70px;
     }
@@ -174,8 +196,9 @@ footer {
     .featurette-divider {
         margin: 30px 0;
     }
+*/
 }
-
+/*
 @media(max-width:640px) {
     .headline {
         padding: 75px 0 25px 0;
